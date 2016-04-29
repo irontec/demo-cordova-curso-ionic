@@ -1,4 +1,4 @@
-# Demo de app con Crdova desarrollada durante el curso de Ionic Framework
+# Demo de app con Cordova desarrollada durante el curso de Ionic Framework
 ## Para poner en marcha el proyecto
 
 git clone https://github.com/irontec/demo-cordova-curso-ionic.git
